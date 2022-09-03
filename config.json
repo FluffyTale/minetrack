@@ -1,0 +1,9 @@
+{
+	"version": "1.18.2",
+	"port": 25565,
+	"stopOnShift": true,
+	
+	"username": null,
+	"scoreboard": "TICK SCOREBOARD",
+	"tag": "@e[tag=TAG]"
+}
